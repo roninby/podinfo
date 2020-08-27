@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  podinfo:
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-08-27T18:05:55.754994595+08:00"
+    description: Podinfo Helm chart for Kubernetes
+    digest: 7d32407e1c38656d1497da440e5b1c818ac406edb8029e7362cfa8f6e9e78d05
+    home: https://github.com/roninby/podinfo
+    maintainers:
+    - email: stefanprodan@users.noreply.github.com
+      name: stefanprodan
+    name: podinfo
+    sources:
+    - https://github.com/roninby/podinfo
+    urls:
+    - podinfo-4.0.6.tgz
+    version: 4.0.6
+generated: "2020-08-27T18:05:55.752004243+08:00"
