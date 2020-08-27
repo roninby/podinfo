@@ -5,3 +5,8 @@ resources:
 
 commonLabels:
   app: podinfo
+
+images:
+  - name: stefanprodan/podinfo
+    newName: harbor.gcpslab.xyz/library/stefanprodan/podinfo
+    newTag: 4.0.6
