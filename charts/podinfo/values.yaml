@@ -22,7 +22,7 @@ h2c:
   enabled: false
 
 image:
-  repository: stefanprodan/podinfo
+  repository: harbor.gcpslab.xyz/library/stefanprodan/podinfo
   tag: 4.0.6
   pullPolicy: IfNotPresent
 
